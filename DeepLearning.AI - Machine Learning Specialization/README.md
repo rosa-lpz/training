@@ -8,3 +8,4 @@
 
 ## [Advanced Learning Algorithms](https://github.com/rosa-lpz/Courses/tree/main/DeepLearning.AI%20-%20Machine%20Learning%20Specialization/2.%20Advanced%20Learning%20Algorithms)
 * ### [Neural Networks](https://github.com/rosa-lpz/Courses/tree/main/DeepLearning.AI%20-%20Machine%20Learning%20Specialization/2.%20Advanced%20Learning%20Algorithms/1.%20Neural%20Networks)
+* ### [Neural Network Training](https://github.com/rosa-lpz/Courses/tree/main/DeepLearning.AI%20-%20Machine%20Learning%20Specialization/2.%20Advanced%20Learning%20Algorithms/2.%20Neural%20network%20training/Labs)
