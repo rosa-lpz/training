@@ -3,6 +3,7 @@
 ## Mathematics
 
 ## Data Science
+* Dataccamp - Visualizing Time series
 
 
 ## Artificial Intelligence and Machine Learning
