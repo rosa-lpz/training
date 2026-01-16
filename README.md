@@ -26,18 +26,18 @@
 
 ## Bootcamps
 * ### Machine Learning Zoomcamp by DataTalks.Club
- * [DataTalks.Club GitHub Repository](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)
- * [Course Notes GitHub Repository](https://github.com/rosa-lpz/machine-learning-zoomcamp-2025)
- * [Homework GitHub Repository](https://github.com/rosa-lpz/machine-learning-zoomcamp-homework)
+  * [DataTalks.Club GitHub Repository](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)
+  * [Course Notes GitHub Repository](https://github.com/rosa-lpz/machine-learning-zoomcamp-2025)
+  * [Homework GitHub Repository](https://github.com/rosa-lpz/machine-learning-zoomcamp-homework)
 
 * ### AI Dev Tools Zoocamp by DataTalks.Club
- * [DataTalks.Club GitHub Repository](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp)
- * [Course Notes GitHub Repository](https://github.com/rosa-lpz/ai-dev-tools-zoomcamp-2025)
- * [Homework GitHub Repository](https://github.com/rosa-lpz/ai-dev-tools-zoomcamp-homework)
+  * [DataTalks.Club GitHub Repository](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp)
+  * [Course Notes GitHub Repository](https://github.com/rosa-lpz/ai-dev-tools-zoomcamp-2025)
+  * [Homework GitHub Repository](https://github.com/rosa-lpz/ai-dev-tools-zoomcamp-homework)
 
 * ### MLOps Zoomcamp by DataTalks.Club
- * [DataTalks.Club GitHub Repository](https://github.com/DataTalksClub/mlops-zoomcamp)
- * [Course Notes GitHub Repository](https://github.com/rosa-lpz/mlops-zoomcamp-2026)
+  * [DataTalks.Club GitHub Repository](https://github.com/DataTalksClub/mlops-zoomcamp)
+  * [Course Notes GitHub Repository](https://github.com/rosa-lpz/mlops-zoomcamp-2026)
 
 ## Master Degree
 * [Udacity - Master of Science in Artificial Intelligence](https://github.com/rosa-lpz/udacity_master-of-science-in-artificial-intelligence/)
