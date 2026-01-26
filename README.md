@@ -1,4 +1,10 @@
 
+# Content
+* [Mathematics](#mathematics)
+* [Data Science](#data-science)
+    * [Courses](##courses)     
+* [Artificial Intelligence & Machine Learning](#artificial-intelligence-and-machine-learning)
+* 
 
 # Mathematics
 
@@ -7,7 +13,7 @@
 * Datacamp - Visualizing Time series
 
 
-# Artificial Intelligence & Machine Learning
+# Artificial Intelligence and Machine Learning
 ## Specializations
 * ### Machine Learning Specialization by Standford University and DeepLearning.AI 
   * [Coursera](https://www.coursera.org/specializations/machine-learning-introduction) 
@@ -33,8 +39,7 @@
   * [DataTalks.Club GitHub](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) | [Course Notes](https://github.com/rosa-lpz/ai-dev-tools-zoomcamp-2025) |[Homework](https://github.com/rosa-lpz/ai-dev-tools-zoomcamp-homework)
 
 * ### MLOps Zoomcamp by DataTalks.Club
-  * [DataTalks.Club GitHub Repository](https://github.com/DataTalksClub/mlops-zoomcamp)
-  * [Course Notes GitHub Repository](https://github.com/rosa-lpz/mlops-zoomcamp-2026)
+  * [DataTalks.Club GitHub](https://github.com/DataTalksClub/mlops-zoomcamp) | [Course Notes](https://github.com/rosa-lpz/mlops-zoomcamp-2026)
 
 ## Master Degree
 * [Udacity - Master of Science in Artificial Intelligence](https://github.com/rosa-lpz/udacity_master-of-science-in-artificial-intelligence/)
@@ -48,7 +53,6 @@
 
 # Robotics Softwere Engineering
 ## Courses
-* Self-Driving and ROS 2 - Learn by Doing! Map & Localization by Antonio Brandi
-* [Udemy](https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-plan-navigation/?couponCode=PLOYALTY0923)[GitHub](https://github.com/rosa-lpz/udemy_self-driving-and-ros-2-learn-by-doing-map-localization)
+* Self-Driving and ROS 2 - Learn by Doing! Map & Localization by Antonio Brandi [Udemy](https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-plan-navigation/?couponCode=PLOYALTY0923) | [GiHub](https://github.com/AntoBrandi/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/tree/main) | [Course Notes GitHub](https://github.com/rosa-lpz/udemy_self-driving-and-ros-2-learn-by-doing-map-localization)
 
 ## Specializations
