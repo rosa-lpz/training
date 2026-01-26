@@ -9,7 +9,6 @@
 
 # Artificial Intelligence & Machine Learning
 ## Specializations
-
 * ### Machine Learning Specialization by Standford University and DeepLearning.AI 
   * [Coursera](https://www.coursera.org/specializations/machine-learning-introduction) 
   * [GitHub Repository](https://github.com/rosa-lpz/deeplearning-ai_machine-learning-specialization)
@@ -31,9 +30,7 @@
   * [Homework GitHub Repository](https://github.com/rosa-lpz/machine-learning-zoomcamp-homework)
 
 * ### AI Dev Tools Zoocamp by DataTalks.Club
-  * [DataTalks.Club GitHub Repository](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp)
-  * [Course Notes GitHub Repository](https://github.com/rosa-lpz/ai-dev-tools-zoomcamp-2025)
-  * [Homework GitHub Repository](https://github.com/rosa-lpz/ai-dev-tools-zoomcamp-homework)
+  * [DataTalks.Club GitHub](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) | [Course Notes](https://github.com/rosa-lpz/ai-dev-tools-zoomcamp-2025) |[Homework](https://github.com/rosa-lpz/ai-dev-tools-zoomcamp-homework)
 
 * ### MLOps Zoomcamp by DataTalks.Club
   * [DataTalks.Club GitHub Repository](https://github.com/DataTalksClub/mlops-zoomcamp)
@@ -48,3 +45,10 @@
 * [Django - Blog](https://github.com/rosa-lpz/django-blog)
 * [Django - To Do App](https://github.com/rosa-lpz/django-to-do-app)
 * [C++ - Calculator Dektop App](https://github.com/rosa-lpz/cpp_calculator-desktop-app)
+
+# Robotics Softwere Engineering
+## Courses
+* Self-Driving and ROS 2 - Learn by Doing! Map & Localization by Antonio Brandi
+* [Udemy](https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-plan-navigation/?couponCode=PLOYALTY0923)[GitHub](https://github.com/rosa-lpz/udemy_self-driving-and-ros-2-learn-by-doing-map-localization)
+
+## Specializations
