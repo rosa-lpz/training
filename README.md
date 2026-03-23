@@ -61,4 +61,4 @@
 * [Autonomous TurtleBot3](https://github.com/rosa-lpz/autonomous-turtlebot3-gazebo-ros2)
 * [Roomsense robot](https://github.com/rosa-lpz/roomsense-robot)
 * [Jetbot ROS](https://github.com/rosa-lpz/jetauto-autonomous-robot-car-ros)
- [Jetbot ROS2](https://github.com/rosa-lpz/jetauto-autonomous-robot-car-ros2)
+* [Jetbot ROS2](https://github.com/rosa-lpz/jetauto-autonomous-robot-car-ros2)
