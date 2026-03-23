@@ -4,8 +4,8 @@
 * [Data Science](#data-science)
     * [Courses](##courses)     
 * [Artificial Intelligence & Machine Learning](#artificial-intelligence-and-machine-learning)
-* [Software Engineering / Web Development](#software-engineering-/-web-development)
-* Robotics Softwere Engineering(#robotics-software-engineering)
+* [Software Engineering / Web Development](#software-engineering-and-web-development)
+* [Robotics Softwere Engineering](#robotics-software-engineering)
 * 
 # Mathematics
 
@@ -32,9 +32,7 @@
 
 ## Bootcamps
 * ### Machine Learning Zoomcamp by DataTalks.Club
-  * [DataTalks.Club GitHub Repository](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)
-  * [Course Notes GitHub Repository](https://github.com/rosa-lpz/machine-learning-zoomcamp-2025)
-  * [Homework GitHub Repository](https://github.com/rosa-lpz/machine-learning-zoomcamp-homework)
+  * [DataTalks.Club GitHub](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master)| [Course Notes](https://github.com/rosa-lpz/machine-learning-zoomcamp-2025) | [Homework](https://github.com/rosa-lpz/machine-learning-zoomcamp-homework)
 
 * ### AI Dev Tools Zoocamp by DataTalks.Club
   * [DataTalks.Club GitHub](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) | [Course Notes](https://github.com/rosa-lpz/ai-dev-tools-zoomcamp-2025) |[Homework](https://github.com/rosa-lpz/ai-dev-tools-zoomcamp-homework)
@@ -45,7 +43,7 @@
 ## Master Degree
 * [Udacity - Master of Science in Artificial Intelligence](https://github.com/rosa-lpz/udacity_master-of-science-in-artificial-intelligence/)
 
-# Software Engineering / Web Development
+# Software Engineering and Web Development
 
 ## Portfolio Projects
 * [Django - Blog](https://github.com/rosa-lpz/django-blog)
@@ -57,3 +55,10 @@
 * Self-Driving and ROS 2 - Learn by Doing! Map & Localization by Antonio Brandi [Udemy](https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-plan-navigation/?couponCode=PLOYALTY0923) | [GiHub](https://github.com/AntoBrandi/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/tree/main) | [Course Notes GitHub](https://github.com/rosa-lpz/udemy_self-driving-and-ros-2-learn-by-doing-map-localization)
 
 ## Specializations
+* [Udacity - Robotics Software Engineer Nanodegree](https://github.com/rosa-lpz/udacity_robotics-software-engineer-nanodegree)
+  
+## Training Projects
+* [Autonomous TurtleBot3](https://github.com/rosa-lpz/autonomous-turtlebot3-gazebo-ros2)
+* [Roomsense robot](https://github.com/rosa-lpz/roomsense-robot)
+* [Jetbot ROS](https://github.com/rosa-lpz/jetauto-autonomous-robot-car-ros)
+ [Jetbot ROS2](https://github.com/rosa-lpz/jetauto-autonomous-robot-car-ros2)
