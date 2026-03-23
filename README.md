@@ -5,7 +5,7 @@
     * [Courses](##courses)     
 * [Artificial Intelligence & Machine Learning](#artificial-intelligence-and-machine-learning)
 * [Software Engineering / Web Development](#software-engineering-and-web-development)
-* [Robotics Softwere Engineering](#robotics-software-engineering)
+* [Robotics Software Engineering](#robotics-software-engineering)
 * 
 # Mathematics
 
@@ -50,7 +50,7 @@
 * [Django - To Do App](https://github.com/rosa-lpz/django-to-do-app)
 * [C++ - Calculator Dektop App](https://github.com/rosa-lpz/cpp_calculator-desktop-app)
 
-# Robotics Softwere Engineering
+# Robotics Software Engineering
 ## Courses
 * Self-Driving and ROS 2 - Learn by Doing! Map & Localization by Antonio Brandi [Udemy](https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-plan-navigation/?couponCode=PLOYALTY0923) | [GiHub](https://github.com/AntoBrandi/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/tree/main) | [Course Notes GitHub](https://github.com/rosa-lpz/udemy_self-driving-and-ros-2-learn-by-doing-map-localization)
 
